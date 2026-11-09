@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion_ver_perfil"
+        android:title="@string/opcion_ver_perfil" />
+    <item
+        android:id="@+id/opcion_enviar_mensaje"
+        android:title="@string/opcion_enviar_mensaje" />
+    <item
+        android:id="@+id/opcion_bloquear"
+        android:title="@string/opcion_bloquear" />
+    <item
+        android:id="@+id/opcion_reportar"
+        android:title="@string/opcion_reportar" />
+</menu>

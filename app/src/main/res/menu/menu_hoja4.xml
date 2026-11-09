@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opcion_editar"
+        android:title="@string/opcion_editar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/opcion_duplicar"
+        android:title="@string/opcion_duplicar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/opcion_archivar"
+        android:title="@string/opcion_archivar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion_borrar"
+        android:title="@string/opcion_borrar"
+        app:showAsAction="never" />
+</menu>

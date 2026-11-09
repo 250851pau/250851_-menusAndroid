@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/opcion_fecha"
+            android:title="@string/opcion_orden_fecha"
+            android:checked="true" />
+
+        <item
+            android:id="@+id/opcion_nombre"
+            android:title="@string/opcion_orden_nombre" />
+
+        <item
+            android:id="@+id/opcion_tamano"
+            android:title="@string/opcion_orden_tamano" />
+
+        <item
+            android:id="@+id/opcion_tipo"
+            android:title="@string/opcion_orden_tipo" />
+    </group>
+
+</menu>

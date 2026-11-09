@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion_copiar"
+        android:title="@string/opcion_copiar" />
+    <item
+        android:id="@+id/opcion_pegar"
+        android:title="@string/opcion_pegar" />
+    <item
+        android:id="@+id/opcion_cortar"
+        android:title="@string/opcion_cortar" />
+    <item
+        android:id="@+id/opcion_eliminar"
+        android:title="@string/opcion_eliminar" />
+</menu>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Menus android</string>
+    <string name="opcion_buscar">Buscar</string>
+    <string name="opcion_configuracion">Configuración</string>
+    <string name="opcion_acerca_de">Acerca de</string>
+
+    <string name="opcion_orden_fecha">Ordenar por fecha</string>
+    <string name="opcion_orden_nombre">Ordenar por nombre</string>
+    <string name="opcion_orden_tamano">Ordenar por tamaño</string>
+    <string name="opcion_compartir">Compartir</string>
+    <string name="opcion_orden_tipo">Ordenar por tipo</string>
+
+    <string name="opcion_copiar">Copiar</string>
+    <string name="opcion_pegar">Pegar</string>
+    <string name="opcion_cortar">Cortar</string>
+    <string name="opcion_eliminar">Eliminar</string>
+
+    <string name="opcion_editar">Editar</string>
+    <string name="opcion_duplicar">Duplicar</string>
+    <string name="opcion_archivar">Archivar</string>
+    <string name="opcion_borrar">Borrar</string>
+
+    <string name="opcion_ver_perfil">Ver perfil</string>
+    <string name="opcion_enviar_mensaje">Enviar mensaje</string>
+    <string name="opcion_bloquear">Bloquear</string>
+    <string name="opcion_reportar">Reportar</string>
+    <string name="btn_desplegar_menu">Desplegar menú emergente</string>
+</resources>
